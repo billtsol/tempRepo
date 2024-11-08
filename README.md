@@ -1,4 +1,5 @@
-# flutter_interview1
+# Flutter simple App
+Video link:  https://drive.google.com/file/d/1gNkSf_Cg2-qwXziAXMnFOLCH9FPOxOS5/view?usp=sharing
 
 # Step 1
 Create a Firebase Project and Configure Firebase with Flutter App
